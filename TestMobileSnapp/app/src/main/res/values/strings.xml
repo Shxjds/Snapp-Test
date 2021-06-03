@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TestMobileSnapp</string>
+    <string name="epsi">Epsi</string>
+    <string name="zone_1">Zone 1</string>
+    <string name="zone_2">Zone 2</string>
+    <string name="name_firstname">Cauffour Théo</string>
+    <string name="email">cauffourtheo@gmail.com</string>
+    <string name="avatar">Avatar</string>
+    <string name="portfolio"><a href="http://www.kckn8058.odns.fr/theo-cauffour/">http://www.kckn8058.odns.fr/theo-cauffour/</a></string>
+    <string name="name">Cauffour</string>
+    <string name="categories">Rayons</string>
+    <string name="image_product">Image du produit</string>
+</resources>
